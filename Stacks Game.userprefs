@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E034D45E-E6D0-083B-D480-00DAAF02F655}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StackManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StackManager.cs" Line="269" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stacks_220Game PreferredExecutionTarget="Unity.Editor" />
+</Properties>
